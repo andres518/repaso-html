@@ -221,6 +221,7 @@ a{
     justify-content: center;
     align-items: center;
     height: 60px;
+    gap:5px;
 }
 
 .ladoB{
@@ -276,4 +277,9 @@ li {
     background-repeat: no-repeat;
     list-style:none;
 
+}
+
+.name{
+    color: #f654a7;
+    
 }
